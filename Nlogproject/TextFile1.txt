@@ -1,0 +1,3 @@
+﻿2021-07-27 20:58:30.2223|INFO|NLogProject.NLog|addition method
+2021-07-27 20:58:30.2924|DEBUG|NLogProject.NLog|Debug Successfull
+2021-07-27 20:58:30.2924|WARN|NLogProject.NLog|addition Method Passed, Result : 30
